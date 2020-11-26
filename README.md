@@ -9,5 +9,5 @@ Suppose someone has lend a book say "book X" and the one who lended it say "A". 
 
 # Credit:
 Exercise from the playlist of 'CodeWithHarry' youtube channel.
-#Author:
+# Author:
 Mayur kumar verma
